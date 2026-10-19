@@ -5,6 +5,7 @@
 
 ## Websites
 - https://puzzlehuntcalendar.com/
+- [Morningwit](https://morningwit.com/) — small daily logic puzzles with gentle hints (practice, not a hunt)
 
 ## Source code
 - https://github.com/Palindrome-Puzzles/puzzup
